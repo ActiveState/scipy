@@ -1,0 +1,12 @@
+==========================
+SciPy 1.2.3.1 Release Notes
+==========================
+
+SciPy 1.2.3.1 is a bug-fix release with no new features compared to 1.2.3. It is
+part of the long-term support (LTS) release series for Python 2.7.
+
+There are two security fixes in this release:
+CVE-2023-29824 https://github.com/scipy/scipy/pull/15013
+CVE-2023-25399 https://github.com/scipy/scipy/pull/16397
+
+The patches have been backported from the PRs listed above.
